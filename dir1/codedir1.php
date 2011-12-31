@@ -1,0 +1,4 @@
+<?php
+/**
+ * Fake PHP file
+ **/
