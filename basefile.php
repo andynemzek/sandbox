@@ -1,5 +1,6 @@
 <?php
 /**
- * Fake PHP file for playing around 1
+ * Fake PHP file for playing around 2
+ * 
  **/
 
